@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.forceott.tv"
     compileSdk 34
 
     defaultConfig {
